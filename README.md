@@ -1,2 +1,4 @@
 # LightGrad: Lightweight Diffusion Probabilistic Model for Text-to-speech
-Please visit: https://thuhcsi.github.io/LightGrad/
+Demos are available at: https://thuhcsi.github.io/LightGrad/
+
+Code is available at: https://github.com/thuhcsi/LightGrad/
