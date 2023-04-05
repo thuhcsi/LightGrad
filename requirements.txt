@@ -1,0 +1,12 @@
+torch
+torchaudio
+matplotlib
+inflect
+librosa
+scipy
+tensorboard
+Unidecode
+g2pM
+g2p_en
+pyyaml
+git+https://github.com/unrea1-sama/monotonic_align.git
