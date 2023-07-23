@@ -35,7 +35,7 @@ FINALS = [
     'ueng', 'v', 've', 'van', 'vn'
 ]
 
-SPECIALS = ['sil', 'sp', '<blank>', '<bos>', '<eos>', ',', '/', '-', '?','!']
+SPECIALS = ['sil', 'sp', '<blank>', '<bos>', '<eos>']
 
 
 def rule(C, V, R, T):
